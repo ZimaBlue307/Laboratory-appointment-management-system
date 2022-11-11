@@ -1,5 +1,0 @@
-1	Physics_lab
-2	Chemistry_lab
-3	Biology_lab
-4	cs_lab
-11	lab11
